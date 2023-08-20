@@ -7,3 +7,7 @@
 [submodule "third_party/bezman"]
 	path = third_party/bezman
 	url = git@github.com:tataratat/bezman.git
+[submodule "third_party/napf"]
+	path = third_party/napf
+	url = https://github.com/carlosal1015/napf.git
+	branch = gcc-13-compatibilty
